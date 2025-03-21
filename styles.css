@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #222;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.row {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.label {
+  display: block;
+  font-size: 1rem;
+  font-weight: normal;
+}
