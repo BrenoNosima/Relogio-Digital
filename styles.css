@@ -18,3 +18,17 @@ body {
   font-size: 1rem;
   font-weight: normal;
 }
+
+.time-box {
+  width: 80px; /* Define um tamanho fixo */
+  height: 80px; /* Altura igual à largura */
+  border-radius: 10px; /* Arredonda os cantos */
+  background-color: #616161; /* Cor de fundo */
+  display: flex;
+  flex-direction: column; /* Alinha o conteúdo verticalmente */
+  justify-content: center; /* Centraliza verticalmente */
+  align-items: center; /* Centraliza horizontalmente */
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 10px; /* Espaçamento entre os blocos */
+}
