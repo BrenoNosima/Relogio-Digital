@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   background: linear-gradient(135deg, #000000, #1e1e1e);
-  color: white;
+  color: rgb(0, 0, 0);
   font-family: Arial, sans-serif;
 }
 
@@ -13,5 +13,12 @@ body {
   font-weight: bold;
   border-radius: 15px;
   background-color: rgb(153, 193, 233);
+  padding: 50px;
+  box-shadow: #1e1e1e 10px 10px 10px;
+}
+
+.row{
+  border-radius: 15px;
+  background-color: rgb(73, 73, 73);
   padding: 50px;
 }
